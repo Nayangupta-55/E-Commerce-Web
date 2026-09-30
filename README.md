@@ -26,6 +26,3 @@ A single-page home-goods store built with **React** and **Redux Toolkit**. All s
 ## Author
 -- Nayan Gupta
 
-## Author
-
-Nayan Gupta
